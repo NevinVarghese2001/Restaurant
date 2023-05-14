@@ -1,0 +1,16 @@
+#c1{
+    transition: .5s ease-in-out;
+    
+}
+#c1:hover{
+    transform: scale(1.02);
+}
+#l1{
+    text-decoration: none;
+}
+#cadd{
+    color: rgb(11, 80, 74);
+    font-size: 20;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
