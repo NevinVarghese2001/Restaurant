@@ -37,3 +37,11 @@ a js store file
 redux
 react-redux
 redux-thunk
+
+
+axios
+-----
+
+used to call api in react
+
+useSelector- hook used to access data from store

@@ -4,7 +4,7 @@ import Accordion from 'react-bootstrap/Accordion';
 function Review({reviewlist}) {
   return (
     <div className='mt-4'>
-          <Accordion defaultActiveKey="0">
+          <Accordion defaultActiveKey="1">
       <Accordion.Item eventKey="0">
         <Accordion.Header>Reviews</Accordion.Header>
         <Accordion.Body>
